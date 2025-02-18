@@ -32,7 +32,7 @@ Mobile Preview
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://monashperera.github.io/fylo-data-storage-component/](https://monashperera.github.io/fylo-data-storage-component/)
 
 ## My process
 
